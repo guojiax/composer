@@ -1,0 +1,10 @@
+{
+    "name": "guojiax/composer",
+    "authors": [
+        {
+            "name": "guojiax",
+            "email": "493906645@qq.com"
+        }
+    ],
+    "require": {}
+}
